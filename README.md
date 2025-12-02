@@ -44,6 +44,6 @@ It calculates the percentage of:
 
 Healthy
 
-Moderate
+Early stress or disease
 
 Unhealthy
