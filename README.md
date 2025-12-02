@@ -1,7 +1,8 @@
 # Greenland-team-
 **computer vision**
 **Crop Monitoring**
-team members:
+
+**team members:**
 
 
 
